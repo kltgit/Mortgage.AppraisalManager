@@ -1,0 +1,10 @@
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Mortgage.AppraisalManager.WebUI.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Mortgage.AppraisalManager.WebUI.pdb
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Coolite.Ext.Web.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Coolite.Utilities.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Newtonsoft.Json.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Coolite.Ext.Web.xml
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\bin\Newtonsoft.Json.xml
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\obj\Debug\Mortgage.AppraisalManager.WebUI.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.WebUI\obj\Debug\Mortgage.AppraisalManager.WebUI.pdb
