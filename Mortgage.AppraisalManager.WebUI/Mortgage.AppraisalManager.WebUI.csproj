@@ -55,6 +55,7 @@
     <Compile Include="ClientComponents\Util\BaseClientComponent.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="ClientComponents\Util\ClientComponentContract.cs" />
     <Compile Include="ClientComponents\Util\ClientComponentFactory.cs" />
     <Compile Include="ClientComponents\WorkQueueControl.ascx.cs">
       <DependentUpon>WorkQueueControl.ascx</DependentUpon>

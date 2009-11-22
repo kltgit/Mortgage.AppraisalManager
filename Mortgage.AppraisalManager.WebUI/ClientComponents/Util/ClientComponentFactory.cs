@@ -28,7 +28,7 @@ namespace Mortgage.AppraisalManager.WebUI.ClientComponents.Util
 
         public void RefreshComponentAttributes()
         {
-
+            // Load component information.
         }
 
         
