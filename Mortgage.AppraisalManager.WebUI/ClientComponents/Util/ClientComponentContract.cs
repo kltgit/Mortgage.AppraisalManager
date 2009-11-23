@@ -12,5 +12,7 @@ namespace Mortgage.AppraisalManager.WebUI.ClientComponents.Util
 {
     public class ClientComponentContract
     {
+        public string ComponentKey { get; set; }
+
     }
 }

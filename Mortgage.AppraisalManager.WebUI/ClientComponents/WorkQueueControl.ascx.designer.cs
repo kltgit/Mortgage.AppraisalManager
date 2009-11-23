@@ -12,5 +12,14 @@ namespace Mortgage.AppraisalManager.WebUI.ClientComponents {
     
     
     public partial class WorkQueueControl {
+        
+        /// <summary>
+        /// GridPanel1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Coolite.Ext.Web.GridPanel GridPanel1;
     }
 }

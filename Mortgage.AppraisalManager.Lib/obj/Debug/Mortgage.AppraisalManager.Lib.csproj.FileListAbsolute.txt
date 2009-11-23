@@ -1,0 +1,7 @@
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\bin\Debug\Mortgage.AppraisalManager.Lib.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\bin\Debug\Mortgage.AppraisalManager.Lib.pdb
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\obj\Debug\Mortgage.AppraisalManager.Lib.dll
+D:\Development\Mortgage.AppraisalManager\Mortgage.AppraisalManager.Lib\obj\Debug\Mortgage.AppraisalManager.Lib.pdb

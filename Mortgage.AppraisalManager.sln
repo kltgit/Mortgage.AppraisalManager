@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage.AppraisalManager.WebUI", "Mortgage.AppraisalManager.WebUI\Mortgage.AppraisalManager.WebUI.csproj", "{BB3DC61F-C93F-4BB8-882E-722EBAE4549C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage.AppraisalManager.Lib", "Mortgage.AppraisalManager.Lib\Mortgage.AppraisalManager.Lib.csproj", "{B6B125BB-FC0D-4C78-93EF-42F502ED3D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage.AppraisalManager.Lib.Test", "Mortgage.AppraisalManager.Lib.Test\Mortgage.AppraisalManager.Lib.Test.csproj", "{41BB766C-99D8-4CD8-AE65-4EDCCB17F588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{BB3DC61F-C93F-4BB8-882E-722EBAE4549C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3DC61F-C93F-4BB8-882E-722EBAE4549C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3DC61F-C93F-4BB8-882E-722EBAE4549C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B125BB-FC0D-4C78-93EF-42F502ED3D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B125BB-FC0D-4C78-93EF-42F502ED3D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B125BB-FC0D-4C78-93EF-42F502ED3D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B125BB-FC0D-4C78-93EF-42F502ED3D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BB766C-99D8-4CD8-AE65-4EDCCB17F588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BB766C-99D8-4CD8-AE65-4EDCCB17F588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BB766C-99D8-4CD8-AE65-4EDCCB17F588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BB766C-99D8-4CD8-AE65-4EDCCB17F588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
